@@ -104,6 +104,6 @@ This is where you put code that checks if your app works correctly. Not mandator
 
 
 
-3. Database (SQL)
+## 3. Database (SQL)
 
 database set up 
