@@ -1,4 +1,4 @@
-# study-group-hub
+# Study Group Hub
 App for making and joining study groups.
 
 Features to work on:
