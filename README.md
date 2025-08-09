@@ -1,7 +1,5 @@
 # Study Group Hub
-App for making and joining study groups.
-
-Features to work on:
+App for making and joining study groups
 
 
 ## 1. Front End and UI
