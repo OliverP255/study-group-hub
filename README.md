@@ -16,39 +16,47 @@ login/signup pages
 
 etc.
 
-Files to use:
+### Files to use:
 
 index.html
 
 The main landing page with welcome text and links/buttons to other pages.
 
+
 create-group.html
 
 Contains a form users fill out to create a new study group.
+
 
 join-group.html
 
 Lets users search or browse existing groups and join them.
 
+
 group-details.html
 
 Displays info about a specific group like members and schedule (optional to start).
+
 
 login.html
 
 Lets users log in or sign up if you want user accounts (optional).
 
+
 profile.html
 
 Shows user info and their joined groups (optional).
+
 
 styles.css
 
 The CSS file with all the styling for the site (colors, fonts, layout).
 
+
 app.js
 
 JavaScript code for things like handling form submissions, updating the UI, or fetching data from the backend.
+
 
 assets/
 
@@ -59,7 +67,7 @@ Folder to keep all images, icons, or other static files.
 
 ## 2. Backend (Java)
 
-Features:
+### Features:
 
 Server set up to handle api requests
 
@@ -67,7 +75,7 @@ authentication and login
 
 Connection to database
 
-What goes where?
+### What goes where?
 
 Application.java
 
